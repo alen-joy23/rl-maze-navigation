@@ -1,2 +1,3 @@
 # rl-maze-navigation
-Reinforcement Learning for Robot Maze Navigation
+Reinforcement Learning for Robot Maze Navigation with PyTorch
+
